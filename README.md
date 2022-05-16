@@ -14,7 +14,7 @@ yoloV5官方源码：https://github.com/ultralytics/yolov5
 arcFace源码： https://github.com/ronghuaiyang/arcface-pytorch
 silentFace静默活体检测：https://github.com/smisthzhu/Silent-Face-Anti-Spoofing
 
-另外有兴趣的可以去我博客看看：https://blog.csdn.net/weixin_41809530/article/details/107313752
+
 
 # 人脸识别实战模型
 
